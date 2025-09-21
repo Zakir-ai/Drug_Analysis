@@ -126,7 +126,7 @@ Ensure the `artifacts/` folder contains trained models, then:
 ```bash
 python app.py
 ```
-Open your browser to **http://127.0.0.1:5000/** to interact with the prediction interface.
+Open your browser to interact with the prediction interface.
 
 ---
 
